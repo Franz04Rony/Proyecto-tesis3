@@ -1,0 +1,67 @@
+numero de vértices:  80
+numero de aristas:  109
+ejecucion 0 Vértice inicial, vertice final:  1209254404 1057089657
+#######DIJKSTRA########
+longitud camino mínimo:  9
+vértices expandidos:  79
+Eficiencia:  0.11392405063291139
+Tiempo:  0.005983829498291016
+Distancia mínima:  1263.8484901838647
+######### A* #################
+longitud camino mínimo:  9
+vértices expandidos:  30
+Eficiencia:  0.3
+Tiempo:  0.006981849670410156
+Distancia mínima:  1263.8484901838647
+ejecucion 1 Vértice inicial, vertice final:  1041615481 1209258101
+#######DIJKSTRA########
+longitud camino mínimo:  7
+vértices expandidos:  45
+Eficiencia:  0.15555555555555556
+Tiempo:  0.0029609203338623047
+Distancia mínima:  445.66271785948436
+######### A* #################
+longitud camino mínimo:  7
+vértices expandidos:  9
+Eficiencia:  0.7777777777777778
+Tiempo:  0.003022432327270508
+Distancia mínima:  445.66271785948436
+ejecucion 2 Vértice inicial, vertice final:  1052552184 5411247482
+#######DIJKSTRA########
+longitud camino mínimo:  7
+vértices expandidos:  59
+Eficiencia:  0.11864406779661017
+Tiempo:  0.002992868423461914
+Distancia mínima:  651.1007938400759
+######### A* #################
+longitud camino mínimo:  7
+vértices expandidos:  23
+Eficiencia:  0.30434782608695654
+Tiempo:  0.00495457649230957
+Distancia mínima:  651.1007938400759
+ejecucion 3 Vértice inicial, vertice final:  4150231326 1057089720
+#######DIJKSTRA########
+longitud camino mínimo:  5
+vértices expandidos:  56
+Eficiencia:  0.08928571428571429
+Tiempo:  0.00395655632019043
+Distancia mínima:  505.3983891703664
+######### A* #################
+longitud camino mínimo:  5
+vértices expandidos:  5
+Eficiencia:  1.0
+Tiempo:  0.0049860477447509766
+Distancia mínima:  505.3983891703664
+ejecucion 4 Vértice inicial, vertice final:  1209249585 5413287787
+#######DIJKSTRA########
+longitud camino mínimo:  8
+vértices expandidos:  65
+Eficiencia:  0.12307692307692308
+Tiempo:  0.003990650177001953
+Distancia mínima:  708.244835973324
+######### A* #################
+longitud camino mínimo:  8
+vértices expandidos:  24
+Eficiencia:  0.3333333333333333
+Tiempo:  0.003989219665527344
+Distancia mínima:  708.244835973324
