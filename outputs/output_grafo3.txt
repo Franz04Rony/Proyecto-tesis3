@@ -1,67 +1,67 @@
-numero de vértices:  2758
-numero de aristas:  4005
-ejecucion 0 Vértice inicial, vertice final:  9851999130 4420567007
+numero de vértices:  8814
+numero de aristas:  13291
+ejecucion 0 Vértice inicial, vertice final:  7061771522 6381144732
 #######DIJKSTRA########
-longitud camino mínimo:  31
-vértices expandidos:  1120
-Eficiencia:  0.027678571428571427
-Tiempo:  2.518296480178833
-Distancia mínima:  1218.0259518406747
+longitud camino mínimo:  42
+vértices expandidos:  2696
+Eficiencia:  0.015578635014836795
+Tiempo:  30.413486003875732
+Distancia mínima:  2734.562166664852
 ######### A* #################
-longitud camino mínimo:  31
-vértices expandidos:  230
-Eficiencia:  0.13478260869565217
-Tiempo:  0.31331491470336914
-Distancia mínima:  1218.0259518406747
-ejecucion 1 Vértice inicial, vertice final:  827102887 3978784924
+longitud camino mínimo:  42
+vértices expandidos:  508
+Eficiencia:  0.08267716535433071
+Tiempo:  4.339183568954468
+Distancia mínima:  2734.562166664852
+ejecucion 1 Vértice inicial, vertice final:  847505374 846599893
 #######DIJKSTRA########
-longitud camino mínimo:  25
-vértices expandidos:  622
-Eficiencia:  0.04019292604501608
-Tiempo:  1.506730318069458
-Distancia mínima:  903.7225697531169
+longitud camino mínimo:  32
+vértices expandidos:  491
+Eficiencia:  0.06517311608961303
+Tiempo:  6.3174309730529785
+Distancia mínima:  1339.344044431095
 ######### A* #################
-longitud camino mínimo:  25
-vértices expandidos:  31
-Eficiencia:  0.8064516129032258
-Tiempo:  0.12665629386901855
-Distancia mínima:  903.7225697531169
-ejecucion 2 Vértice inicial, vertice final:  6129593671 4643556439
+longitud camino mínimo:  32
+vértices expandidos:  163
+Eficiencia:  0.19631901840490798
+Tiempo:  0.8706686496734619nima:  1339.344
+Distancia mí044431095
+ejecucion 2 Vértice inicial, vertice final:  1440130628 9170954994
 #######DIJKSTRA########
-longitud camino mínimo:  35
-vértices expandidos:  1744
-Eficiencia:  0.020068807339449542
-Tiempo:  3.3036859035491943
-Distancia mínima:  1539.8444879522442
+longitud camino mínimo:  38
+vértices expandidos:  1778
+Eficiencia:  0.021372328458942633
+Tiempo:  23.031096935272217
+Distancia mínima:  1552.0990586729326
 ######### A* #################
-longitud camino mínimo:  35
-vértices expandidos:  231
-Eficiencia:  0.15151515151515152
-Tiempo:  0.37496137619018555
-Distancia mínima:  1539.8444879522442
-ejecucion 3 Vértice inicial, vertice final:  816553218 6334634229
+longitud camino mínimo:  39
+vértices expandidos:  300
+Eficiencia:  0.13
+Tiempo:  2.064732551574707
+Distancia mínima:  1552.5133651602223
+ejecucion 3 Vértice inicial, vertice final:  6432939310 4436799819
 #######DIJKSTRA########
-longitud camino mínimo:  28
-vértices expandidos:  1380
-Eficiencia:  0.020289855072463767
-Tiempo:  2.8414435386657715
-Distancia mínima:  1556.4635919757993
+longitud camino mínimo:  55
+vértices expandidos:  3086
+Eficiencia:  0.01782242384964355
+Tiempo:  33.01715922355652
+Distancia mínima:  1766.382960777601
 ######### A* #################
-longitud camino mínimo:  28
-vértices expandidos:  80
-Eficiencia:  0.35
-Tiempo:  0.179518461227417
-Distancia mínima:  1556.4635919757993
-ejecucion 4 Vértice inicial, vertice final:  827096062 1442053727
+longitud camino mínimo:  55
+vértices expandidos:  578
+Eficiencia:  0.09515570934256055
+Tiempo:  4.2992024421691895
+Distancia mínima:  1766.382960777601
+ejecucion 4 Vértice inicial, vertice final:  4261133139 9740583462
 #######DIJKSTRA########
-longitud camino mínimo:  64
-vértices expandidos:  2524
-Eficiencia:  0.025356576862123614
-Tiempo:  3.786871910095215
-Distancia mínima:  3129.720871204149
+longitud camino mínimo:  107
+vértices expandidos:  7933
+Eficiencia:  0.013487961679062145
+Tiempo:  50.9246666431427
+Distancia mínima:  4542.984364912335
 ######### A* #################
-longitud camino mínimo:  64
-vértices expandidos:  1070
-Eficiencia:  0.059813084112149535
-Tiempo:  2.9521350860595703
-Distancia mínima:  3129.720871204149
+longitud camino mínimo:  107
+vértices expandidos:  3265
+Eficiencia:  0.032771822358346095
+Tiempo:  38.33821988105774
+Distancia mínima:  4542.984364912335
