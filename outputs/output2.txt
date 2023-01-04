@@ -1,0 +1,47 @@
+numero de vértices:  2758
+numero de aristas:  4005
+ejecucion 0 Vértice inicial, vertice final:  9851999130 9291573217
+#######DIJKSTRA########
+longitud camino mínimo:  38
+Tiempo:  2.217233180999756
+Distancia mínima:  1688.356773329391
+######### A* #################
+longitud camino mínimo:  38
+Tiempo:  0.32915472984313965
+Distancia mínima:  1688.356773329391
+Eficiencia:  100.0
+#################### AG #####################
+mejor fitness final:  1865.5074962078236
+Tiempo:  2.5751125812530518
+Distancia mínima:  1865.5074962078236
+Eficiencia:  90.50388576628386
+ejecucion 1 Vértice inicial, vertice final:  827102887 3978784924
+#######DIJKSTRA########
+longitud camino mínimo:  24
+Tiempo:  1.4665007591247559
+Distancia mínima:  1434.599400565408
+######### A* #################
+longitud camino mínimo:  24
+Tiempo:  0.2314157485961914
+Distancia mínima:  1434.599400565408
+Eficiencia:  100.0
+#################### AG #####################
+mejor fitness final:  1434.7630425688346
+Tiempo:  2.8553640842437744
+Distancia mínima:  1434.7630425688346
+Eficiencia:  99.98859449270914
+ejecucion 2 Vértice inicial, vertice final:  6129593671 6996695354
+#######DIJKSTRA########
+longitud camino mínimo:  48
+Tiempo:  2.9940268993377686
+Distancia mínima:  2384.8048547603917
+######### A* #################
+longitud camino mínimo:  48
+Tiempo:  0.3470728397369385
+Distancia mínima:  2384.8048547603917
+Eficiencia:  100.0
+#################### AG #####################
+mejor fitness final:  2589.2856687259855
+Tiempo:  2.8802990913391113
+Distancia mínima:  2589.2856687259855
+Eficiencia:  92.10280980444288
